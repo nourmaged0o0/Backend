@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "johnathan",
+      "email": "john@gmail.com",
+      "age": 20,
+      "university": "AOU",
+      "Level": 2
+    },
+    {
+      "id": 2,
+      "name": "nour",
+      "email": "noudsscr@gmail.com",
+      "age": 20,
+      "university": "FCAI",
+      "Level": 2
+    },
+    {
+      "id": 4,
+      "name": "nour",
+      "email": "nouddffdsdsddsedcr@gmail.com",
+      "age": 20,
+      "university": "FCAI",
+      "Level": 2
+    },
+    {
+      "id": 5,
+      "name": "nour",
+      "email": "nouddffdsdsddddsedcr@gmail.com",
+      "age": 20,
+      "university": "FCAI",
+      "Level": 2
+    },
+    {
+      "id": 6,
+      "name": "meme",
+      "email": "nouddffdsssdsddddsedcr@gmail.com",
+      "age": 20,
+      "university": "FCAI",
+      "Level": 2
+    }
+  ]
+}
